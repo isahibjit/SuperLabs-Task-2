@@ -1,4 +1,3 @@
-Here’s your updated and **fancy GitHub README section**, with the live link beautifully integrated and everything properly stacked and styled in markdown:
 
 ---
 
@@ -92,4 +91,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-Would you like this exported as a `README.md` file or want a downloadable version as well?
