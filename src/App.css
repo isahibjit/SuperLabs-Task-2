@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+.hover-link{
+    @apply hover:text-red-600 transition-colors duration-300
+}
+
+.corner-popup-btn{
+    @apply bg-red-600 text-white font-semibold py-2 px-6 rounded-full transition-colors duration-300 hover:text-gray-300
+}
+.hero-popup-btn{
+    @apply bg-white text-red-600 hover:bg-red-600 hover:text-white font-semibold py-2 px-6 rounded-full transition-colors duration-300 hover:text-gray-300
+}
+
+.banner-img {
+    background-image: url('./assets//seller-banner.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+.footer-banner {
+    background-image: url(./assets/footer-banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
